@@ -1,4 +1,6 @@
 labyrinth
 =========
 
-A game using SDL where I write everything ever, it's good shit
+A game using Polycode, it's good shit
+
+It's gonna be multiplayer Cladun with added vision/lighting elements.
